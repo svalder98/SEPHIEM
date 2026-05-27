@@ -1,0 +1,6 @@
+{
+  "name": "SEPHIEM",
+  "description": "Decentralized Web3 medical platform with encrypted records and AI-assisted diagnoses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
